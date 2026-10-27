@@ -1,4 +1,4 @@
-# Altair AI
+# Altair Org
 
 Financial and AI consulting from [Altair AI LLC](https://altairworld.com).
 
